@@ -1,4 +1,4 @@
-import React from 'react'
+import React ,{useEffect}from 'react'
 // images import/////////////////////////////
 import a6 from '../images/about/a6.jpg'
 import mp4 from '../images/about/1.mp4'
@@ -10,7 +10,9 @@ import card5 from '../images/features/f5.png'
 import card6 from '../images/features/f6.png'
 
 function About() {
-  window.scrollTo({top:0,left:0})
+  useEffect(()=>{
+    window.scrollTo({top:0,left:0})
+  },[])
   return (
 
     <>

@@ -1,11 +1,14 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import b1 from '../images/blog/b1.jpg'
 import b2 from '../images/blog/b2.jpg'
 import b3 from '../images/blog/b3.jpg'
 import b4 from '../images/blog/b4.jpg'
 import b5 from '../images/blog/b5.jpg'
 function Blog() {
-  window.scrollTo({top:0,left:0})
+  useEffect(()=>{
+    window.scrollTo({top:0,left:0})
+  },[])
+  
   return (
     <>
       <section className="bloghero ">

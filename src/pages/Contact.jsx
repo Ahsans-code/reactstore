@@ -1,10 +1,13 @@
 import React from 'react'
+import { useEffect } from 'react'
 // import iamges/////////////////////
 import p1 from '../images/people/1.png'
 import p2 from '../images/people/2.png'
 import p3 from '../images/people/3.png'
 function Contact() {
-  window.scrollTo({top:0,left:0})
+  useEffect(()=>{
+    window.scrollTo({top:0,left:0})
+  },[])
   return (
     <>
       <section className="abouthero ">

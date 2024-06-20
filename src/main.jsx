@@ -8,6 +8,7 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
+import { persistor } from './store.js'
 //import pages//////////////////////////
 import Home from './pages/Home.jsx';
 import Shop from './pages/Shop.jsx';
@@ -17,12 +18,13 @@ import Contact from './pages/Contact.jsx';
 import Error from './pages/Error.jsx';
 import Propage from './pages/Propage.jsx';
 import Addtocart from './pages/Addtocart.jsx'
+import { PersistGate } from 'redux-persist/integration/react'
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
-    errorElement:<Error/>,
+    errorElement: <Error />,
     children: [
       {
         path: '/',
@@ -38,33 +40,36 @@ const router = createBrowserRouter([
       },
       {
         path: '/about',
-        element: <About/>
+        element: <About />
       },
       {
         path: '/contact',
-        element: <Contact/>
+        element: <Contact />
       },
       {
         path: '/cart',
-        element: <Addtocart/>
+        element: <Addtocart />
       },
       {
-        path:'/product_detail/:key',
-        element:<Propage/>
+        path: '/product_detail/:key',
+        element: <Propage />
       },
       {
-        path:'/shop/product_detail/:key',
-        element:<Propage/>
+        path: '/shop/product_detail/:key',
+        element: <Propage />
       }
 
     ]
-    
+
   }
 ]);
 ReactDOM.createRoot(document.getElementById('root')).render(
- 
-    <Provider store={store}>
-    <RouterProvider router={router} />
-    </Provider>
-  
+
+  <Provider store={store}>
+    <PersistGate loading={null} persistor={persistor}>
+      <RouterProvider router={router} />
+    </PersistGate>
+
+  </Provider>
+
 )
