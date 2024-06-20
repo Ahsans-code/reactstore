@@ -20,14 +20,14 @@
         image:imgn1,
         company:'Nike',
         title:"Half sleeves Shirt",
-        price:"$98",
+        price:98,
         detail:" Half sleeves Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn2,
         company:'Nike',
         title:"Cotton Shirt",
-        price:"$98"
+        price:87
         ,
         detail:" Cotton Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
@@ -35,49 +35,49 @@
         image:imgn3,
         company:'Nike',
         title:"Best Men's Shirt",
-        price:"$98" ,
+        price:76 ,
         detail:" Best Men's Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn4,
         company:'Nike',
         title:"Full Sleevs Shirt",
-        price:"98" ,
+        price:98 ,
         detail:"Full Sleevs Shirt  Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn5,
         company:'Nike',
         title:"Cartoon astraunaut T-shirt",
-        price:"$98" ,
+        price:98 ,
         detail:" Cotton Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn6,
         company:'Nike',
         title:"Cartoon astraunaut T-shirt",
-        price:"$98" ,
+        price:77 ,
         detail:" Cotton Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn7,
         company:'Nike',
         title:"Cartoon astraunaut T-shirt",
-        price:"$98" ,
+        price:98 ,
         detail:" Cotton Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn8,
         company:'Nike',
         title:"Cartoon astraunaut T-shirt",
-        price:"$98" ,
+        price:88 ,
         detail:" Cotton Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:imgn5,
         company:'Nike',
         title:"Cartoon astraunaut T-shirt",
-        price:"$67" ,
+        price:67 ,
         detail:" Cotton Shirt Shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     }
  ]
@@ -88,35 +88,35 @@
         image: img1,
         company:'adiddas',
         title:"Cartoon astraunaut T-shirt",
-        price:"$78",
+        price:66,
         detail:"Cartoon astraunaut T-shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:img2,
         company:'Nike',
         title:"Simple Design shirt",
-        price:"$72",
+        price:73,
         detail:"Simple design Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:img3,
         company:'Jordan',
         title:"Summer T-shirt",
-        price:"$68",
+        price:68,
         detail:"Summer T-shirt Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:img4,
         company:'adiddas',
         title:"Casual T-shirt",
-        price:"$90",
+        price:90,
         detail:"Casual Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
     {
         image:img5,
         company:'adiddas',
         title:"Party T-shirt",
-        price:"$100",
+        price:100,
         detail:"Party Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
 
     },
@@ -124,7 +124,7 @@
         image:img6,
         company:'adiddas',
         title:"Cotton T-shirt",
-        price:"$78",
+        price:79,
         detail:"Cotton Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quam distinctio nesciunt modi beataedicta optio id pariatur veniam, deleniti soluta corporis animi rem minima ab consequuntur obcaecatiimpedit quod, perspiciatis, sed natus sunt reprehenderit. Tenetur praesentium non porro doloremsoluta asperiores commodi aspernatur at quas voluptas reiciendis doloremque fugit, tempore fugiatofficia quibusdam adipisci vel quam vitae. Dolores delectus dolorem esse exercitationem consequaturvero "
     },
 

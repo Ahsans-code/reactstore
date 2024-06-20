@@ -2,6 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
+import { Provider } from 'react-redux'
+import { store } from './store.js'
 import {
   createBrowserRouter,
   RouterProvider,
@@ -14,6 +16,7 @@ import About from './pages/About.jsx';
 import Contact from './pages/Contact.jsx';
 import Error from './pages/Error.jsx';
 import Propage from './pages/Propage.jsx';
+import Addtocart from './pages/Addtocart.jsx'
 
 const router = createBrowserRouter([
   {
@@ -42,6 +45,10 @@ const router = createBrowserRouter([
         element: <Contact/>
       },
       {
+        path: '/cart',
+        element: <Addtocart/>
+      },
+      {
         path:'/product_detail/:key',
         element:<Propage/>
       },
@@ -55,7 +62,9 @@ const router = createBrowserRouter([
   }
 ]);
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+ 
+    <Provider store={store}>
     <RouterProvider router={router} />
-  </React.StrictMode>,
+    </Provider>
+  
 )

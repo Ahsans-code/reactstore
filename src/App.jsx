@@ -32,6 +32,7 @@ function App() {
           <hr />
           <Link className="tabs" to={"contact"}>Contact</Link>
           <hr />
+          <Link className="tabs" to={"cart"}>Cart</Link>
 
 
           {/* <i id="close" className="fa-solid fa-xmark"></i> */}
